@@ -73,6 +73,8 @@ inicio de sesión. (opcional)
 
 ### Checkpoint 2 (Fecha: 08/11 al 17/11)
 1) Elaborar el DER (diagrama de entidad relación) de la solución. (opcional)
+![CINEMAR-DER drawio](https://user-images.githubusercontent.com/104176535/201503590-44719237-2451-4ac7-9781-d56a7dfeaf39.png)
+
 2) Presentar los Script de generación de esquemas de la base de datos.
 
 ### Checkpoint 3 (Fecha: 22/11 - 08/12)
