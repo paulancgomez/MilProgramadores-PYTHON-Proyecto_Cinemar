@@ -32,7 +32,7 @@ def create_table(conn, create_table_sql):
 
 
 def main():
-    database = r"Cinemark.db"
+    database = r"Database/Cinemar.db"
 
     sql_create_usuario_table = """ CREATE TABLE IF NOT EXISTS usuario (
                                         id_usuario integer PRIMARY KEY AUTOINCREMENT,

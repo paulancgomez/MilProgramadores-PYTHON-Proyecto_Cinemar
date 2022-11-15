@@ -16,4 +16,4 @@ def create_connection(db_file):
 
 
 if __name__ == '__main__':
-    create_connection(r"Cinemark.db")
+    create_connection(r"DataBase/Cinemar.db")
